@@ -1,6 +1,8 @@
 # lslx
 S3 interface for semi-confirmatory SEM (Structural Equation Modeling) via PL (Partial Least) Use lslx With (In) R Software
 
+https://www.youtube.com/watch?v=BEseJY5-HVU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
